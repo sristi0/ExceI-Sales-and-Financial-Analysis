@@ -1,4 +1,4 @@
-Excel-Sales-and-Finance Analysis for AtliQ Hardware
+#Excel-Sales-and-Finance Analysis for AtliQ Hardware
 
 Project Overview:
 This project focuses on Sales and Finance Analysis for AtliQ Hardware using Excel. The goal was to generate actionable insights that can enhance business decision-making and boost performance.
