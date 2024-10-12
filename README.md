@@ -1,68 +1,50 @@
-🔗Excel-Sales-and-Finance Analysis for AtliQ Hardware
-________________________________________
-🔗Project Overview:
-________________________________________
-This project focuses on Sales and Finance Analysis for AtliQ Hardware using Excel. The goal was to generate actionable insights that can enhance business decision-making and boost performance.
+# Excel-Sales-and-Finance-Analysis
 
-🔗Sales Report
-________________________________________
-🔗Project Objectives:
+## Project Overview
 
-1.Developed a Customer Performance Report.
+This project focuses on the Sales and Finance Analysis for AtiQ Hardware using Excel. The analysis aims to provide actionable insights for business decision-making and to improve overall performance.
 
-2.Conducted a comparison between market performance and sales targets.
+## Sales Report
 
-3.Identified key product metrics:
+### Project Objectives
 
-•	Top 10 Products sold by revenue.
+1. **Create a Customer Performance Report**
+2. **Conduct a comprehensive comparison between Market Performance and Sales Targets**
+3. **Identify Key Product Metrics:**
+   - Top 10 Products Sold by Revenue
+   - Top and Bottom 5 Products Sold by Quantity
+   - New Products Launched in 2021
 
-•	Top and Bottom 5 Products based on quantity sold.
+**Purpose of Sales Analytics:**  
+Empower businesses to monitor and evaluate their sales activities and performance.
 
-•	New Products Launched in 2021 with revenue contribution.
+**Importance of Analyzing Sales Data:**  
+Detect sales trends and monitor key performance indicators (KPIs).
 
+**Role of Reports:**  
+Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-🔗Purpose of Sales Analytics:
+## Finance Report
 
-Empowered businesses to monitor and evaluate their sales activities and performance.
+### Project Objectives
 
-🔗Importance of Analyzing Sales Data:
+1. **Create Profit and Loss (P&L) Reports by Fiscal Year & Months**
+2. **Create Profit and Loss (P&L) Reports by Markets**
+3. **Create Gross Margin Reports by Markets**
 
-Identified sales trends and tracked key performance indicators (KPIs).
+## Technical Skills
 
-Helped determine effective discounts and strategic expansion opportunities in high-potential countries.
+- Proficiency in ETL methodology (Extract, Transform, Load)
+- Skills to generate a date table using Power Query
+- Establishing data model relationships with Power Pivot
+- Proficiency in incorporating supplementary data into an existing data model
+- Utilizing DAX to create calculated columns
+- Proficiency in Pivot tables to create comprehensive reports
 
-🔗Finance Report
-________________________________________
-🔗Project Objectives:
+## Soft Skills
 
-1.	Generated Profit & Loss (P&L) Reports by fiscal year and month.
-	
-2.	Created P&L Reports by Markets to analyze profitability across regions.
-	
-3.	Developed Gross Margin Reports to benchmark market performance.
-
-🔗Technical Skills Gained:
-________________________________________
-•	ETL Process (Extract, Transform, Load) for seamless data preparation.
-
-•	Generated date tables using Power Query.
-
-•	Built data model relationships with Power Pivot.
-
-•	Incorporated supplementary data into an existing data model.
-
-•	Utilized DAX to create calculated columns for in-depth analysis.
-
-•	Leveraged Pivot Tables to produce detailed reports.
-
-
-🔗Soft Skills Demonstrated:
-________________________________________
-•	Enhanced understanding of Sales & Finance Reports.
-
-•	Designed user-centric reports for better usability and impact.
-
-•	Optimized report generation by fine-tuning processes.
-
-•	Adopted a systematic approach to planning and building reports.
+- Refined understanding of Sales & Finance Reports
+- Designing user-centric reports with empathy in mind
+- Optimization of report generation through meticulous fine-tuning
+- Developing a systematic approach to devising a report building plan
 
